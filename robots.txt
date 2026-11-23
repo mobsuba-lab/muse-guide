@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mobsuba-lab.github.io/muse-guide/sitemap.xml
